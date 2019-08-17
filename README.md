@@ -1,5 +1,5 @@
 # pump_sensor
 
-- [X] data clean
+- [X] ## data clean
 - [ ] model training
 - [ ] result analysis
